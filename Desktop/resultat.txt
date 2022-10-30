@@ -1,0 +1,154 @@
+[33mFilesystem  [33mSize [33mUsed [33mAvail [33m Use% [33m              [33mMounted on       [0m
+[0m/dev/sda1   [0m228G [0m 47G [0m 169G [0m 20.7 [0m[##.........] [0m/                [0m
+[0m/dev/loop1  [0m 89M [0m 89M [36m    0 [36m100.0 [36m[###########] [36m/snap/core/7713  [0m
+[0m/dev/loop2  [0m 91M [0m 91M [36m    0 [36m100.0 [36m[###########] [36m/snap/core/8689  [0m
+[0m/dev/loop7  [0m 55M [0m 55M [36m    0 [36m100.0 [36m[###########] [36m/snap/core18/1668[0m
+[0m/dev/loop4  [0m174M [0m174M [36m    0 [36m100.0 [36m[###########] [36m/snap/skype/115  [0m
+[0m/dev/loop9  [0m173M [0m173M [36m    0 [36m100.0 [36m[###########] [36m/snap/skype/92   [0m
+[0m/dev/loop0  [0m181M [0m181M [36m    0 [36m100.0 [36m[###########] [36m/snap/spotify/36 [0m
+[0m/dev/loop10 [0m164M [0m164M [36m    0 [36m100.0 [36m[###########] [36m/snap/spotify/41 [0m
+[0m/dev/loop3  [0m203M [0m203M [36m    0 [36m100.0 [36m[###########] [36m/snap/vlc/1049   [0m
+[0m/dev/loop6  [0m203M [0m203M [36m    0 [36m100.0 [36m[###########] [36m/snap/vlc/1397   [0m
+[33mFilesystem  [33mSize [33mUsed [33mAvail [33m Use% [33m              [33mMounted on       [0m
+[0m/dev/sda1   [0m228G [0m 47G [0m 169G [0m 20.7 [0m[##.........] [0m/                [0m
+[0m/dev/loop1  [0m 89M [0m 89M [36m    0 [36m100.0 [36m[###########] [36m/snap/core/7713  [0m
+[0m/dev/loop2  [0m 91M [0m 91M [36m    0 [36m100.0 [36m[###########] [36m/snap/core/8689  [0m
+[0m/dev/loop7  [0m 55M [0m 55M [36m    0 [36m100.0 [36m[###########] [36m/snap/core18/1668[0m
+[0m/dev/loop4  [0m174M [0m174M [36m    0 [36m100.0 [36m[###########] [36m/snap/skype/115  [0m
+[0m/dev/loop9  [0m173M [0m173M [36m    0 [36m100.0 [36m[###########] [36m/snap/skype/92   [0m
+[0m/dev/loop0  [0m181M [0m181M [36m    0 [36m100.0 [36m[###########] [36m/snap/spotify/36 [0m
+[0m/dev/loop10 [0m164M [0m164M [36m    0 [36m100.0 [36m[###########] [36m/snap/spotify/41 [0m
+[0m/dev/loop3  [0m203M [0m203M [36m    0 [36m100.0 [36m[###########] [36m/snap/vlc/1049   [0m
+[0m/dev/loop6  [0m203M [0m203M [36m    0 [36m100.0 [36m[###########] [36m/snap/vlc/1397   [0m
+[33mFilesystem  [33mSize [33mUsed [33mAvail [33m Use% [33m              [33mMounted on       [0m
+[0m/dev/sda1   [0m228G [0m 47G [0m 169G [0m 20.7 [0m[##.........] [0m/                [0m
+[0m/dev/loop1  [0m 89M [0m 89M [36m    0 [36m100.0 [36m[###########] [36m/snap/core/7713  [0m
+[0m/dev/loop2  [0m 91M [0m 91M [36m    0 [36m100.0 [36m[###########] [36m/snap/core/8689  [0m
+[0m/dev/loop7  [0m 55M [0m 55M [36m    0 [36m100.0 [36m[###########] [36m/snap/core18/1668[0m
+[0m/dev/loop4  [0m174M [0m174M [36m    0 [36m100.0 [36m[###########] [36m/snap/skype/115  [0m
+[0m/dev/loop9  [0m173M [0m173M [36m    0 [36m100.0 [36m[###########] [36m/snap/skype/92   [0m
+[0m/dev/loop0  [0m181M [0m181M [36m    0 [36m100.0 [36m[###########] [36m/snap/spotify/36 [0m
+[0m/dev/loop10 [0m164M [0m164M [36m    0 [36m100.0 [36m[###########] [36m/snap/spotify/41 [0m
+[0m/dev/loop3  [0m203M [0m203M [36m    0 [36m100.0 [36m[###########] [36m/snap/vlc/1049   [0m
+[0m/dev/loop6  [0m203M [0m203M [36m    0 [36m100.0 [36m[###########] [36m/snap/vlc/1397   [0m
+[33mFilesystem [33mSize [33mUsed [33mAvail [33m Use% [33m              [33mMounted on       [0m
+[0m/dev/sda1  [0m228G [0m 47G [0m 169G [0m 20.7 [0m[##.........] [0m/                [0m
+[0m/dev/loop5 [0m 89M [0m 89M [36m    0 [36m100.0 [36m[###########] [36m/snap/core/7713  [0m
+[0m/dev/loop1 [0m 91M [0m 91M [36m    0 [36m100.0 [36m[###########] [36m/snap/core/8689  [0m
+[0m/dev/loop3 [0m 55M [0m 55M [36m    0 [36m100.0 [36m[###########] [36m/snap/core18/1668[0m
+[0m/dev/loop7 [0m174M [0m174M [36m    0 [36m100.0 [36m[###########] [36m/snap/skype/115  [0m
+[0m/dev/loop6 [0m173M [0m173M [36m    0 [36m100.0 [36m[###########] [36m/snap/skype/92   [0m
+[0m/dev/loop8 [0m181M [0m181M [36m    0 [36m100.0 [36m[###########] [36m/snap/spotify/36 [0m
+[0m/dev/loop2 [0m164M [0m164M [36m    0 [36m100.0 [36m[###########] [36m/snap/spotify/41 [0m
+[0m/dev/loop4 [0m203M [0m203M [36m    0 [36m100.0 [36m[###########] [36m/snap/vlc/1049   [0m
+[0m/dev/loop0 [0m203M [0m203M [36m    0 [36m100.0 [36m[###########] [36m/snap/vlc/1397   [0m
+[33mFilesystem [33mSize [33mUsed [33mAvail [33m Use% [33m              [33mMounted on       [0m
+[0m/dev/sda1  [0m228G [0m 47G [0m 170G [0m 20.5 [0m[##.........] [0m/                [0m
+[0m/dev/loop4 [0m 89M [0m 89M [36m    0 [36m100.0 [36m[###########] [36m/snap/core/7713  [0m
+[0m/dev/loop2 [0m 91M [0m 91M [36m    0 [36m100.0 [36m[###########] [36m/snap/core/8689  [0m
+[0m/dev/loop6 [0m 55M [0m 55M [36m    0 [36m100.0 [36m[###########] [36m/snap/core18/1668[0m
+[0m/dev/loop0 [0m174M [0m174M [36m    0 [36m100.0 [36m[###########] [36m/snap/skype/115  [0m
+[0m/dev/loop7 [0m173M [0m173M [36m    0 [36m100.0 [36m[###########] [36m/snap/skype/92   [0m
+[0m/dev/loop5 [0m181M [0m181M [36m    0 [36m100.0 [36m[###########] [36m/snap/spotify/36 [0m
+[0m/dev/loop1 [0m164M [0m164M [36m    0 [36m100.0 [36m[###########] [36m/snap/spotify/41 [0m
+[0m/dev/loop3 [0m203M [0m203M [36m    0 [36m100.0 [36m[###########] [36m/snap/vlc/1049   [0m
+[0m/dev/loop8 [0m203M [0m203M [36m    0 [36m100.0 [36m[###########] [36m/snap/vlc/1397   [0m
+[33mFilesystem [33mSize [33mUsed [33mAvail [33m Use% [33m              [33mMounted on       [0m
+[0m/dev/sda1  [0m228G [0m 47G [0m 170G [0m 20.5 [0m[##.........] [0m/                [0m
+[0m/dev/loop4 [0m 89M [0m 89M [36m    0 [36m100.0 [36m[###########] [36m/snap/core/7713  [0m
+[0m/dev/loop2 [0m 91M [0m 91M [36m    0 [36m100.0 [36m[###########] [36m/snap/core/8689  [0m
+[0m/dev/loop6 [0m 55M [0m 55M [36m    0 [36m100.0 [36m[###########] [36m/snap/core18/1668[0m
+[0m/dev/loop0 [0m174M [0m174M [36m    0 [36m100.0 [36m[###########] [36m/snap/skype/115  [0m
+[0m/dev/loop7 [0m173M [0m173M [36m    0 [36m100.0 [36m[###########] [36m/snap/skype/92   [0m
+[0m/dev/loop5 [0m181M [0m181M [36m    0 [36m100.0 [36m[###########] [36m/snap/spotify/36 [0m
+[0m/dev/loop1 [0m164M [0m164M [36m    0 [36m100.0 [36m[###########] [36m/snap/spotify/41 [0m
+[0m/dev/loop3 [0m203M [0m203M [36m    0 [36m100.0 [36m[###########] [36m/snap/vlc/1049   [0m
+[0m/dev/loop8 [0m203M [0m203M [36m    0 [36m100.0 [36m[###########] [36m/snap/vlc/1397   [0m
+[33mFilesystem [33mSize [33mUsed [33mAvail [33m Use% [33m              [33mMounted on       [0m
+[0m/dev/sda1  [0m228G [0m 47G [0m 170G [0m 20.5 [0m[##.........] [0m/                [0m
+[0m/dev/loop4 [0m 89M [0m 89M [36m    0 [36m100.0 [36m[###########] [36m/snap/core/7713  [0m
+[0m/dev/loop2 [0m 91M [0m 91M [36m    0 [36m100.0 [36m[###########] [36m/snap/core/8689  [0m
+[0m/dev/loop6 [0m 55M [0m 55M [36m    0 [36m100.0 [36m[###########] [36m/snap/core18/1668[0m
+[0m/dev/loop0 [0m174M [0m174M [36m    0 [36m100.0 [36m[###########] [36m/snap/skype/115  [0m
+[0m/dev/loop7 [0m173M [0m173M [36m    0 [36m100.0 [36m[###########] [36m/snap/skype/92   [0m
+[0m/dev/loop5 [0m181M [0m181M [36m    0 [36m100.0 [36m[###########] [36m/snap/spotify/36 [0m
+[0m/dev/loop1 [0m164M [0m164M [36m    0 [36m100.0 [36m[###########] [36m/snap/spotify/41 [0m
+[0m/dev/loop3 [0m203M [0m203M [36m    0 [36m100.0 [36m[###########] [36m/snap/vlc/1049   [0m
+[0m/dev/loop8 [0m203M [0m203M [36m    0 [36m100.0 [36m[###########] [36m/snap/vlc/1397   [0m
+[33mFilesystem [33mSize [33mUsed [33mAvail [33m Use% [33m              [33mMounted on       [0m
+[0m/dev/sda1  [0m228G [0m 47G [0m 170G [0m 20.5 [0m[##.........] [0m/                [0m
+[0m/dev/loop4 [0m 89M [0m 89M [36m    0 [36m100.0 [36m[###########] [36m/snap/core/7713  [0m
+[0m/dev/loop2 [0m 91M [0m 91M [36m    0 [36m100.0 [36m[###########] [36m/snap/core/8689  [0m
+[0m/dev/loop6 [0m 55M [0m 55M [36m    0 [36m100.0 [36m[###########] [36m/snap/core18/1668[0m
+[0m/dev/loop0 [0m174M [0m174M [36m    0 [36m100.0 [36m[###########] [36m/snap/skype/115  [0m
+[0m/dev/loop7 [0m173M [0m173M [36m    0 [36m100.0 [36m[###########] [36m/snap/skype/92   [0m
+[0m/dev/loop5 [0m181M [0m181M [36m    0 [36m100.0 [36m[###########] [36m/snap/spotify/36 [0m
+[0m/dev/loop1 [0m164M [0m164M [36m    0 [36m100.0 [36m[###########] [36m/snap/spotify/41 [0m
+[0m/dev/loop3 [0m203M [0m203M [36m    0 [36m100.0 [36m[###########] [36m/snap/vlc/1049   [0m
+[0m/dev/loop8 [0m203M [0m203M [36m    0 [36m100.0 [36m[###########] [36m/snap/vlc/1397   [0m
+[33mFilesystem [33mSize [33mUsed [33mAvail [33m Use% [33m              [33mMounted on       [0m
+[0m/dev/sda1  [0m228G [0m 47G [0m 170G [0m 20.5 [0m[##.........] [0m/                [0m
+[0m/dev/loop4 [0m 89M [0m 89M [36m    0 [36m100.0 [36m[###########] [36m/snap/core/7713  [0m
+[0m/dev/loop2 [0m 91M [0m 91M [36m    0 [36m100.0 [36m[###########] [36m/snap/core/8689  [0m
+[0m/dev/loop6 [0m 55M [0m 55M [36m    0 [36m100.0 [36m[###########] [36m/snap/core18/1668[0m
+[0m/dev/loop0 [0m174M [0m174M [36m    0 [36m100.0 [36m[###########] [36m/snap/skype/115  [0m
+[0m/dev/loop7 [0m173M [0m173M [36m    0 [36m100.0 [36m[###########] [36m/snap/skype/92   [0m
+[0m/dev/loop5 [0m181M [0m181M [36m    0 [36m100.0 [36m[###########] [36m/snap/spotify/36 [0m
+[0m/dev/loop1 [0m164M [0m164M [36m    0 [36m100.0 [36m[###########] [36m/snap/spotify/41 [0m
+[0m/dev/loop3 [0m203M [0m203M [36m    0 [36m100.0 [36m[###########] [36m/snap/vlc/1049   [0m
+[0m/dev/loop8 [0m203M [0m203M [36m    0 [36m100.0 [36m[###########] [36m/snap/vlc/1397   [0m
+[33mFilesystem [33mSize [33mUsed [33mAvail [33m Use% [33m              [33mMounted on       [0m
+[0m/dev/sda1  [0m228G [0m 47G [0m 170G [0m 20.5 [0m[##.........] [0m/                [0m
+[0m/dev/loop4 [0m 89M [0m 89M [36m    0 [36m100.0 [36m[###########] [36m/snap/core/7713  [0m
+[0m/dev/loop2 [0m 91M [0m 91M [36m    0 [36m100.0 [36m[###########] [36m/snap/core/8689  [0m
+[0m/dev/loop6 [0m 55M [0m 55M [36m    0 [36m100.0 [36m[###########] [36m/snap/core18/1668[0m
+[0m/dev/loop0 [0m174M [0m174M [36m    0 [36m100.0 [36m[###########] [36m/snap/skype/115  [0m
+[0m/dev/loop7 [0m173M [0m173M [36m    0 [36m100.0 [36m[###########] [36m/snap/skype/92   [0m
+[0m/dev/loop5 [0m181M [0m181M [36m    0 [36m100.0 [36m[###########] [36m/snap/spotify/36 [0m
+[0m/dev/loop1 [0m164M [0m164M [36m    0 [36m100.0 [36m[###########] [36m/snap/spotify/41 [0m
+[0m/dev/loop3 [0m203M [0m203M [36m    0 [36m100.0 [36m[###########] [36m/snap/vlc/1049   [0m
+[0m/dev/loop8 [0m203M [0m203M [36m    0 [36m100.0 [36m[###########] [36m/snap/vlc/1397   [0m
+[33mFilesystem [33mSize [33mUsed [33mAvail [33m Use% [33m              [33mMounted on       [0m
+[0m/dev/sda1  [0m228G [0m 47G [0m 170G [0m 20.5 [0m[##.........] [0m/                [0m
+[0m/dev/loop4 [0m 89M [0m 89M [36m    0 [36m100.0 [36m[###########] [36m/snap/core/7713  [0m
+[0m/dev/loop2 [0m 91M [0m 91M [36m    0 [36m100.0 [36m[###########] [36m/snap/core/8689  [0m
+[0m/dev/loop6 [0m 55M [0m 55M [36m    0 [36m100.0 [36m[###########] [36m/snap/core18/1668[0m
+[0m/dev/loop0 [0m174M [0m174M [36m    0 [36m100.0 [36m[###########] [36m/snap/skype/115  [0m
+[0m/dev/loop7 [0m173M [0m173M [36m    0 [36m100.0 [36m[###########] [36m/snap/skype/92   [0m
+[0m/dev/loop5 [0m181M [0m181M [36m    0 [36m100.0 [36m[###########] [36m/snap/spotify/36 [0m
+[0m/dev/loop1 [0m164M [0m164M [36m    0 [36m100.0 [36m[###########] [36m/snap/spotify/41 [0m
+[0m/dev/loop3 [0m203M [0m203M [36m    0 [36m100.0 [36m[###########] [36m/snap/vlc/1049   [0m
+[0m/dev/loop8 [0m203M [0m203M [36m    0 [36m100.0 [36m[###########] [36m/snap/vlc/1397   [0m
+[33mFilesystem [33mSize [33mUsed [33mAvail [33m Use% [33m              [33mMounted on       [0m
+[0m/dev/sda1  [0m228G [0m 47G [0m 170G [0m 20.5 [0m[##.........] [0m/                [0m
+[0m/dev/loop1 [0m 89M [0m 89M [36m    0 [36m100.0 [36m[###########] [36m/snap/core/7713  [0m
+[0m/dev/loop5 [0m 91M [0m 91M [36m    0 [36m100.0 [36m[###########] [36m/snap/core/8689  [0m
+[0m/dev/loop2 [0m 55M [0m 55M [36m    0 [36m100.0 [36m[###########] [36m/snap/core18/1668[0m
+[0m/dev/loop8 [0m174M [0m174M [36m    0 [36m100.0 [36m[###########] [36m/snap/skype/115  [0m
+[0m/dev/loop7 [0m173M [0m173M [36m    0 [36m100.0 [36m[###########] [36m/snap/skype/92   [0m
+[0m/dev/loop6 [0m181M [0m181M [36m    0 [36m100.0 [36m[###########] [36m/snap/spotify/36 [0m
+[0m/dev/loop3 [0m164M [0m164M [36m    0 [36m100.0 [36m[###########] [36m/snap/spotify/41 [0m
+[0m/dev/loop4 [0m203M [0m203M [36m    0 [36m100.0 [36m[###########] [36m/snap/vlc/1049   [0m
+[0m/dev/loop0 [0m203M [0m203M [36m    0 [36m100.0 [36m[###########] [36m/snap/vlc/1397   [0m
+[33mFilesystem [33mSize [33mUsed [33mAvail [33m Use% [33m              [33mMounted on       [0m
+[0m/dev/sda1  [0m228G [0m 47G [0m 170G [0m 20.5 [0m[##.........] [0m/                [0m
+[0m/dev/loop1 [0m 89M [0m 89M [36m    0 [36m100.0 [36m[###########] [36m/snap/core/7713  [0m
+[0m/dev/loop5 [0m 91M [0m 91M [36m    0 [36m100.0 [36m[###########] [36m/snap/core/8689  [0m
+[0m/dev/loop2 [0m 55M [0m 55M [36m    0 [36m100.0 [36m[###########] [36m/snap/core18/1668[0m
+[0m/dev/loop8 [0m174M [0m174M [36m    0 [36m100.0 [36m[###########] [36m/snap/skype/115  [0m
+[0m/dev/loop7 [0m173M [0m173M [36m    0 [36m100.0 [36m[###########] [36m/snap/skype/92   [0m
+[0m/dev/loop6 [0m181M [0m181M [36m    0 [36m100.0 [36m[###########] [36m/snap/spotify/36 [0m
+[0m/dev/loop3 [0m164M [0m164M [36m    0 [36m100.0 [36m[###########] [36m/snap/spotify/41 [0m
+[0m/dev/loop4 [0m203M [0m203M [36m    0 [36m100.0 [36m[###########] [36m/snap/vlc/1049   [0m
+[0m/dev/loop0 [0m203M [0m203M [36m    0 [36m100.0 [36m[###########] [36m/snap/vlc/1397   [0m
+[33mFilesystem [33mSize [33mUsed [33mAvail [33m Use% [33m              [33mMounted on       [0m
+[0m/dev/sda1  [0m228G [0m 47G [0m 170G [0m 20.5 [0m[##.........] [0m/                [0m
+[0m/dev/loop6 [0m 89M [0m 89M [36m    0 [36m100.0 [36m[###########] [36m/snap/core/7713  [0m
+[0m/dev/loop5 [0m 91M [0m 91M [36m    0 [36m100.0 [36m[###########] [36m/snap/core/8689  [0m
+[0m/dev/loop2 [0m 55M [0m 55M [36m    0 [36m100.0 [36m[###########] [36m/snap/core18/1668[0m
+[0m/dev/loop0 [0m174M [0m174M [36m    0 [36m100.0 [36m[###########] [36m/snap/skype/115  [0m
+[0m/dev/loop7 [0m173M [0m173M [36m    0 [36m100.0 [36m[###########] [36m/snap/skype/92   [0m
+[0m/dev/loop3 [0m181M [0m181M [36m    0 [36m100.0 [36m[###########] [36m/snap/spotify/36 [0m
+[0m/dev/loop1 [0m164M [0m164M [36m    0 [36m100.0 [36m[###########] [36m/snap/spotify/41 [0m
+[0m/dev/loop4 [0m203M [0m203M [36m    0 [36m100.0 [36m[###########] [36m/snap/vlc/1049   [0m
+[0m/dev/loop8 [0m203M [0m203M [36m    0 [36m100.0 [36m[###########] [36m/snap/vlc/1397   [0m
